@@ -111,7 +111,7 @@ src/
 
 ## 📬 Postman Collection
 
-A Postman collection is provided in `Note API.postman_collection.json` (you can export it manually after testing).
+A Postman collection is provided in `Note API.postman_collection.json` (you can export it manually for testing).
 
 ---
 
